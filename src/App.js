@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Selam, bu kısmı değiştirilebilir!
+          Selam, bu kısmı yeni branch ile değiştirip sonrasına master branchine PR ile merge ettim.
         </p>
         <a
           className="App-link"
